@@ -1,7 +1,6 @@
 # Exploit Title: ProjectSend-r582 WebShell Upload(non-auth)
 # Date: 2015-07-01
-# Exploit Author: hahwul
-# Blog: http://www.codeblack.net
+# Blog: http://www.hahwul.com
 # Vendor Homepage: http://www.projectsend.org
 # Software Link: http://www.projectsend.org/download/108/
 # Version: ProjectSend-r582
